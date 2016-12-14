@@ -1,6 +1,6 @@
+/* Nirav Pardiwala *//*START DATE- 12/05/2015 *//*END DATE- 2/20/2016 */
 #include<iostream>
 #include<string>
-
 using namespace std;
 int defender;
 int playerleft1, playerleft2;
